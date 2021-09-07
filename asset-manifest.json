@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scopedstudiosweb/static/css/main.a617e044.chunk.css",
+    "main.js": "/scopedstudiosweb/static/js/main.75b7cbbf.chunk.js",
+    "main.js.map": "/scopedstudiosweb/static/js/main.75b7cbbf.chunk.js.map",
+    "runtime-main.js": "/scopedstudiosweb/static/js/runtime-main.ef8e04e7.js",
+    "runtime-main.js.map": "/scopedstudiosweb/static/js/runtime-main.ef8e04e7.js.map",
+    "static/js/2.cb92c0d3.chunk.js": "/scopedstudiosweb/static/js/2.cb92c0d3.chunk.js",
+    "static/js/2.cb92c0d3.chunk.js.map": "/scopedstudiosweb/static/js/2.cb92c0d3.chunk.js.map",
+    "static/js/3.d18f88a0.chunk.js": "/scopedstudiosweb/static/js/3.d18f88a0.chunk.js",
+    "static/js/3.d18f88a0.chunk.js.map": "/scopedstudiosweb/static/js/3.d18f88a0.chunk.js.map",
+    "index.html": "/scopedstudiosweb/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/scopedstudiosweb/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cb92c0d3.chunk.js.LICENSE.txt": "/scopedstudiosweb/static/js/2.cb92c0d3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/scopedstudiosweb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef8e04e7.js",
+    "static/js/2.cb92c0d3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.75b7cbbf.chunk.js"
+  ]
+}
